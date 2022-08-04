@@ -131,20 +131,25 @@
 }
 
 @media (max-width:1200px) {
+    .hero-container-right .hero-heading {
+        padding-top: 100px !important;
+    }
+
     .user-img img {
         margin-top: 40px !important;
         height: 80vh;
     }
 
     .main .square {
-        bottom: -17% !important;
-        left: 19% !important;
+        bottom: -13% !important;
+        left: 28% !important;
     }
 
     .main .globe {
         top: auto !important;
-        bottom: -30% !important;
-        right: 29% !important;
+
+        bottom: -24% !important;
+        right: -3% !important;
     }
 }
 
@@ -168,10 +173,14 @@
 
     }
 
+    .hero-container-right .hero-heading {
+        padding-top: 120px !important;
+    }
+
     .main .globe {
         top: auto !important;
-        bottom: -25% !important;
-        right: 15% !important;
+        bottom: -5% !important;
+        right: 5% !important;
     }
 
     .hero-container-right .hero-heading {
@@ -183,7 +192,7 @@
     }
 
     .main .square {
-        bottom: -11% !important;
+        bottom: 7% !important;
         left: 17% !important;
     }
 
@@ -214,7 +223,7 @@
 
     .main .globe {
         top: auto !important;
-        bottom: 18% !important;
+        bottom: 30% !important;
         right: 15% !important;
     }
 
@@ -227,9 +236,8 @@
     }
 
     .main .square {
-        bottom: 31% !important;
-        left: 13% !important;
-
+        bottom: 42% !important;
+        left: 12% !important;
     }
 
     .hero-container-right .button-email,
@@ -273,14 +281,14 @@
     }
 
     .main .square {
-        bottom: 24% !important;
+        bottom: 36% !important;
         left: 16% !important;
     }
 
     .main .globe {
         top: auto !important;
-        bottom: 5% !important;
-        right: 15% !important;
+        bottom: 22% !important;
+        right: 10% !important;
     }
 
     .main .star2 img {
