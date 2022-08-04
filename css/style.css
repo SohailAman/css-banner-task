@@ -223,7 +223,7 @@
 
     .main .globe {
         top: auto !important;
-        bottom: 30% !important;
+        bottom: 24% !important;
         right: 15% !important;
     }
 
@@ -237,7 +237,7 @@
 
     .main .square {
         bottom: 42% !important;
-        left: 12% !important;
+        left: 13% !important;
     }
 
     .hero-container-right .button-email,
